@@ -1,0 +1,39 @@
+{
+	"types": [{
+			"id": 0,
+			"category": 0,
+			"name": "personal",
+			"description": "Fireworks intended for recreational use during holiday celebrations"
+		},
+		{
+			"id": 1,
+			"category": 0,
+			"name": "comercial",
+			"description": "Firworks intended for use by professionals and used for elaborate shows"
+		},
+		{
+			"id": 2,
+			"category": 0,
+			"name": "small",
+			"description": "less dangerous explosives for recreational use, mostly visual sparks"
+		},
+		{
+			"id": 3,
+			"category": 1,
+			"name": "mechanical",
+			"description": "explosives used in mechanics"
+		},
+		{
+			"id": 4,
+			"category": 1,
+			"name": "chemical",
+			"description": "explosions created with chemicals"
+		},
+		{
+			"id": 5,
+			"category": 1,
+			"name": "other",
+			"description": "Other types of explosives that are not for entertainment"
+		}
+	]
+}
